@@ -1,0 +1,141 @@
+How many people do we have today : 5
+Who are gonna eat today? Names please.
+1 : Gufran
+2 : Damla
+3 : Murat
+4 : Alanur
+5 : Barkın
+
+Name 1 : Gufran
+Name 2 : Damla
+Name 3 : Murat
+Name 4 : Alanur
+Name 5 : Barkın
+
+Will you write dishes or would you prefer a pre-defined menu?
+ 1- We will write what we want.
+ 2- BRING THE MENU!
+ Choice : 1
+Your Choice : 1
+
+404 Error Not Found. Redirecting to the MENU...
+
+
+Menu
+1-Kebab
+2-Burger
+3-Pasta
+4-Lahmacun
+5-Salad
+(Please type only numbers)
+
+Gufran
+Enter Your 1. Preference: 5
+Enter Your 2. Preference: 4
+Enter Your 3. Preference: 3
+Enter Your 4. Preference: 2
+Enter Your 5. Preference: 1
+
+Menu
+1-Kebab
+2-Burger
+3-Pasta
+4-Lahmacun
+5-Salad
+(Please type only numbers)
+
+Damla
+Enter Your 1. Preference: 3
+Enter Your 2. Preference: 4
+Enter Your 3. Preference: 5
+Enter Your 4. Preference: 2
+Enter Your 5. Preference: 1
+
+Menu
+1-Kebab
+2-Burger
+3-Pasta
+4-Lahmacun
+5-Salad
+(Please type only numbers)
+
+Murat
+Enter Your 1. Preference: 4
+Enter Your 2. Preference: 3
+Enter Your 3. Preference: 5
+Enter Your 4. Preference: 2
+Enter Your 5. Preference: 1
+
+Menu
+1-Kebab
+2-Burger
+3-Pasta
+4-Lahmacun
+5-Salad
+(Please type only numbers)
+
+Alanur
+Enter Your 1. Preference: 2
+Enter Your 2. Preference: 4
+Enter Your 3. Preference: 3
+Enter Your 4. Preference: 5
+Enter Your 5. Preference: 1
+
+Menu
+1-Kebab
+2-Burger
+3-Pasta
+4-Lahmacun
+5-Salad
+(Please type only numbers)
+
+Barkın
+Enter Your 1. Preference: 3
+Enter Your 2. Preference: 2
+Enter Your 3. Preference: 4
+Enter Your 4. Preference: 5
+Enter Your 5. Preference: 1
+
+
+ First Round 
+
+After threshold : 
+2-Burger
+3-Pasta
+4-Lahmacun
+5-Salad
+
+Gufran will choose now.
+1. Choice: 4
+2. Choice: 3
+3. Choice: 5
+4. Choice: 2
+
+Damla will choose now.
+1. Choice: 3
+2. Choice: 5
+3. Choice: 4
+4. Choice: 2
+
+Murat will choose now.
+1. Choice: 2
+2. Choice: 4
+3. Choice: 3
+4. Choice: 5
+
+Alanur will choose now.
+1. Choice: 4
+2. Choice: 2
+3. Choice: 5
+4. Choice: 3
+
+Barkın will choose now.
+1. Choice: 4
+2. Choice: 3
+3. Choice: 5
+4. Choice: 2
+
+
+Second Round
+
+You will eat Lahmacun today, folks!
